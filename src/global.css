@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --paragraph-3-semibold: Poppins;
+  --font-baloo-da: "Baloo Da";
+
+  /* font sizes */
+  --paragraph-3-semibold-size: 12px;
+  --nft-name-size: 14px;
+  --paragraph-1-semibold-size: 16px;
+  --heading-3-size: 20px;
+  --heading-1-size: 28px;
+  --font-size-2xl: 40px;
+
+  /* Colors */
+  --color-gray-100: #d1d1d1;
+  --gray-3: #4f4f4f;
+  --black-3: #2a2d3a;
+  --black-4: #24252d;
+  --black-2: #1b1a21;
+  --color-white-100: #ffffff;
+  --white1: #fff;
+  --color-black: #000;
+  --red-violet: #da18a3;
+
+  /* Gaps */
+  --gap-4xs: 2px;
+  --gap-3xs: 5px;
+  --gap-2xs: 12px;
+  --gap-xs: 15px;
+  --gap-sm: 20px;
+  --gap-md: 24px;
+  --gap-lg: 25px;
+  --gap-xl: 30px;
+  --gap-2xl: 32px;
+  --gap-3xl: 155px;
+  --gap-4xl: 543px;
+
+  /* Paddings */
+  --padding-xs: 7px;
+  --padding-sm: 9px;
+  --padding-md: 15px;
+  --padding-lg: 19px;
+  --padding-xl: 30px;
+
+  /* border radiuses */
+  --br-xs: 5px;
+  --br-sm: 10px;
+  --br-md: 20px;
+  --br-lg: 30px;
+  --br-xl: 100px;
+}
